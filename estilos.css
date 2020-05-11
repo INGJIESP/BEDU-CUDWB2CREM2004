@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+}
+.primer {
+  width: 98%;
+  height: 50px;
+  border: 2px solid black;
+  padding: 0px 20px 5px 5px;
+  margin: 5px 20px 0px 0px;
+}
+.primer p {
+  text-align: right;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family: Times New Roman;
+  color: black;
+  word-spacing: 10px;
+}
+
+.boxt {
+  width: 98%;
+  height: 120px;
+  border: 2px solid black;
+  padding: 0px 20px 10px 5px;
+  margin: 5px 20px 0px 0px;
+  text-align: center;
+}
+
+.boxt p.titulo {
+  text-transform: capitalize;
+  font-family: "Satisfy", cursive;
+  font-size: 30px;
+  color: red;
+}
+
+.boxt p.fecha {
+  color: blue;
+  text-transform: uppercase;
+}
+
+.subt {
+  width: 98%;
+  height: 150;
+  margin: 5px 20px 0px 0px;
+  padding: 0px 20px 5px 5px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.negritas {
+  font-weight: bold;
+  font-size: 130px;
+}
+
+.mayusculas {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 20px;
+  color: gray;
+}
+
+.texto {
+  width: 98%;
+  height: 1200px;
+  margin: 5px 20px 5px 0px;
+  border: 1px solid black;
+  padding-right: 5px;
+  text-align: left;
+  font-size: 40px;
+  color: black;
+  font-family: Times New Roman;
+}
